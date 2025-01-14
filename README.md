@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Meeral Qureshi
 ======================================================================================================================================
 
-Software Developer
+I'm a Software Developer!
 ------------------
 
-I've been in the industry for about 7 years now and worked on various front-end and full-stack projects. I'm currently working at Wealthsimple as a Software Developer as part of the team which focuses on money deposits, withdrawals, and transfers.
+I've been in the industry for about 7 years now and worked on various front-end and full-stack projects. I'm currently working at Wealthsimple as a Software Developer. I'm part of the team focusing on money deposits, withdrawals, and transfers.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [hello@meeralq.com](mailto:hello@meeralq.com)
